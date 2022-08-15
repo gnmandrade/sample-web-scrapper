@@ -14,8 +14,6 @@ It is an adaptation, considering a different website.
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
-import pandas as pd
-
 #####
 # Download the data
 #####
